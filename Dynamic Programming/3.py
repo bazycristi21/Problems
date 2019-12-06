@@ -32,6 +32,7 @@ for i in range(1,n):
 
 for i in M:
     print(i)
+    
 maxim = 0
 for i in range(1,n):
     for j in range(1,m):
