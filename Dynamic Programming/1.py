@@ -53,7 +53,6 @@ for i in Sol:
     for j in Piese:
         if i == j:
             nr_piese += 1
-
 print(Sol)
 print(first,last)
 
