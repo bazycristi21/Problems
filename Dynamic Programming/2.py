@@ -74,5 +74,3 @@ Drum.reverse()
 Drum.append(Drum[0])
 del Drum[0]
 print(Drum)
-
-
