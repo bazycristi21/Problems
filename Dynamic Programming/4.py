@@ -33,7 +33,6 @@ Nr[n] = 1
 
 nrMinimPalindrom = 0
 
-
 for i in range(-n+1,0):
     nrMinimPalindrom = n + 2
     for k in range(-i+1,n+2):
