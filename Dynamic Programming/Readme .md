@@ -1,4 +1,4 @@
-1. Domino cards problem
+1. Domino tiling
 
 The input is an array of Domino pieces that have 2 numbers on them.
 The rule is that a piece cand be placed after another piece if the second number on the first piece is equal with the first number on the second piece.
